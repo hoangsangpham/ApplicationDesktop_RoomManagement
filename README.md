@@ -5,4 +5,8 @@ Install:
 - pip install --upgrade pyodbc
 
 Reference:
-- 
+- Flowchart
+- ClassDiagram
+- DatabaseDiagram
+- Pygubu design Tk
+- Database
